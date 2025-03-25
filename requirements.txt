@@ -1,0 +1,8 @@
+azure-identity==1.21.0
+# azure-mgmt-subscription==3.1.1
+# azure-mgmt-resource==23.3.0
+# duckdb==1.2.1
+azure-mgmt-resourcegraph==8.0.0
+click==8.1.8
+pydantic-settings==2.8.1
+smolagents[openai]==1.12.0
